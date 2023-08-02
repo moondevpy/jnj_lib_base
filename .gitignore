@@ -1,0 +1,11 @@
+dist/
+build/
+
+*egg-info/
+
+.env
+
+_*/
+_*.*
+
+test*
